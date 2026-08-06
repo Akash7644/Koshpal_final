@@ -1,0 +1,44 @@
+{
+    "employee_information": {
+        "employee_id": "EMP00016",
+        "employee_name": "Avantika Dubey",
+        "department": "Product Management",
+        "age": 37,
+        "experience": 10
+    },
+    "prediction": {
+        "financial_health": "Medium",
+        "confidence": 99.14
+    },
+    "income": {
+        "monthly_salary": 147355.0,
+        "net_salary": 120114.0,
+        "income_tax": 12804.0,
+        "pf_contribution": 8841.0,
+        "insurance_deduction": 3802.0,
+        "other_deductions": 1794.0
+    },
+    "expenses": {
+        "rent": 35040.0,
+        "grocery": 19216.0,
+        "emi": 0.0,
+        "entertainment": 8235.0,
+        "other_expenses": 6344.0,
+        "total_expenditure": 68835.0
+    },
+    "assets": {
+        "savings": 24065.0,
+        "investments": 4701.0
+    },
+    "financial_metrics": {
+        "expense_ratio": 0.5730805734552176,
+        "savings_ratio": 0.2003513329004112,
+        "investment_ratio": 0.0391378190718817,
+        "emi_ratio": 0.0,
+        "disposable_income": 51279.0,
+        "financial_cushion": 0.35,
+        "debt_burden_index": 0.0,
+        "investment_to_savings_ratio": 0.195,
+        "financial_health_score": 1.0
+    }
+}
